@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/capa-escuro.png">
-    <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/capa-claro.png" alt="Erbe. Tudo em ordem. A organização interna de redes com muitas lojas." width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/capa.png" alt="Erbe. Tudo em ordem. A organização interna de redes com muitas lojas. Uma operadora de caixa na frente de um disco de mosaico, com três cartões do produto." width="100%">
 </p>
 
 <p align="center">
