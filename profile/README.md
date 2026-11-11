@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desktop-Windows_e_macOS-0072F0?style=flat-square" alt="Desktop: Windows e macOS">
-  <img src="https://img.shields.io/badge/Celular-iOS_e_Android-0072F0?style=flat-square" alt="Celular: iOS e Android">
-  <img src="https://img.shields.io/badge/Idioma-português_do_Brasil-0072F0?style=flat-square" alt="Idioma: português do Brasil">
-  <img src="https://img.shields.io/badge/Hospedagem-São_Paulo-0072F0?style=flat-square" alt="Hospedagem: São Paulo">
+  <img src="https://img.shields.io/badge/Desktop-Windows_e_macOS-0072F0?style=flat-square&labelColor=0A0A0C" alt="Desktop: Windows e macOS">
+  <img src="https://img.shields.io/badge/Celular-iOS_e_Android-0072F0?style=flat-square&labelColor=0A0A0C" alt="Celular: iOS e Android">
+  <img src="https://img.shields.io/badge/Idioma-português_do_Brasil-0072F0?style=flat-square&labelColor=0A0A0C" alt="Idioma: português do Brasil">
+  <img src="https://img.shields.io/badge/Hospedagem-São_Paulo-0072F0?style=flat-square&labelColor=0A0A0C" alt="Hospedagem: São Paulo">
 </p>
 
 ## O que é
@@ -17,13 +17,13 @@ Ele não substitui o ERP nem o sistema de RH. O ERP continua sendo a fonte de ve
 
 O produto é um app de desktop e um app de celular, e está em construção.
 
-## O que o produto faz
+## Os módulos
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/erbe-modulos.png" alt="Os dez módulos: Hoje, Acompanhar, Mensagens, Avisos, Tarefas, Rotinas, Projetos, Reuniões, Agenda e Como fazer." width="100%">
 </p>
 
-Os módulos são ligados entre si. Um aviso gera tarefa, uma reunião gera combinados, uma rotina que falha aparece para quem acompanha.
+Os módulos são ligados entre si. Um aviso pode pedir uma tarefa, uma reunião gera combinados, uma rotina não cumprida aparece para quem acompanha.
 
 ## Este é o Tino
 
@@ -31,7 +31,7 @@ Os módulos são ligados entre si. Um aviso gera tarefa, uma reunião gera combi
   <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/erbe-tino.png" alt="O Tino em seis estados: Olá, Pensando, Procurando, Trabalhando, Avisando e Comemorando." width="100%">
 </p>
 
-O Tino é o agente de IA do Erbe. Ele responde com o que a pessoa já tem permissão de ver e mostra tudo antes de fazer: quem confirma é a pessoa.
+O Tino é o agente de IA do Erbe. Pelo desenho do produto, ele responde só com o que a pessoa já tem permissão de ver e mostra tudo antes de fazer: quem confirma é a pessoa.
 
 ## Contato
 
