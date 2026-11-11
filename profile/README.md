@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/capa.png" alt="Erbe. Tudo em ordem. A organização interna de redes com muitas lojas. Uma operadora de caixa na frente de um disco de mosaico, com três cartões do produto." width="100%">
+  <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/erbe-capa.png" alt="Erbe. Tudo em ordem. A organização interna de redes com muitas lojas. Uma operadora de caixa na frente de um disco de mosaico, com três cartões do produto." width="100%">
 </p>
 
 <p align="center">
@@ -20,10 +20,7 @@ O produto é um app de desktop e um app de celular, e está em construção.
 ## O que o produto faz
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/modulos-escuro.png">
-    <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/modulos-claro.png" alt="Os dez módulos: Hoje, Acompanhar, Mensagens, Avisos, Tarefas, Rotinas, Projetos, Reuniões, Agenda e Como fazer." width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/erbe-modulos.png" alt="Os dez módulos: Hoje, Acompanhar, Mensagens, Avisos, Tarefas, Rotinas, Projetos, Reuniões, Agenda e Como fazer." width="100%">
 </p>
 
 Os módulos são ligados entre si. Um aviso gera tarefa, uma reunião gera combinados, uma rotina que falha aparece para quem acompanha.
@@ -31,10 +28,7 @@ Os módulos são ligados entre si. Um aviso gera tarefa, uma reunião gera combi
 ## Este é o Tino
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/tino-escuro.png">
-    <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/tino-claro.png" alt="O Tino em seis estados: Olá, Pensando, Procurando, Trabalhando, Avisando e Comemorando." width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/erbe-tino.png" alt="O Tino em seis estados: Olá, Pensando, Procurando, Trabalhando, Avisando e Comemorando." width="100%">
 </p>
 
 O Tino é o agente de IA do Erbe. Ele responde com o que a pessoa já tem permissão de ver e mostra tudo antes de fazer: quem confirma é a pessoa.
@@ -46,10 +40,7 @@ O Tino é o agente de IA do Erbe. Ele responde com o que a pessoa já tem permis
 - Dados pessoais e privacidade: [privacidade@erbegestao.com.br](mailto:privacidade@erbegestao.com.br)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/rodape-escuro.png">
-    <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/rodape-claro.png" alt="A loja inteira na mesma página. Quatro pessoas da loja, cada uma num arco de mosaico azul." width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/erbe-rodape.png" alt="A loja inteira na mesma página. Quatro pessoas da loja, cada uma num arco de mosaico azul." width="100%">
 </p>
 
 <p align="center">
