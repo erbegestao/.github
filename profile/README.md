@@ -17,13 +17,15 @@ Ele não substitui o ERP nem o sistema de RH. O ERP continua sendo a fonte de ve
 
 O produto é um app de desktop e um app de celular, e está em construção.
 
-## Os módulos
+## A base e os módulos
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/modulos-erbe.png" alt="Hoje: o que cada pessoa tem para fazer no turno. Acompanhar: a visão de quem cuida de equipes e lojas. Mensagens: conversa de trabalho, fora do WhatsApp. Avisos: público certo e leitura confirmada. Tarefas: pedir, fazer e comprovar, com foto. Rotinas: o que se repete em cada loja. Projetos: trabalho com começo, meio e fim. Reuniões: presencial ou online, com pauta e ata. Agenda: tudo o que tem hora, num lugar só. Como fazer: o conhecimento da empresa, fácil de achar." width="100%">
+  <img src="https://raw.githubusercontent.com/erbegestao/.github/main/profile/img/modulos-erbe.png" alt="A base, que toda rede tem, com Hoje e Acompanhar dentro dela. Os módulos, que cada rede contrata: Mensagens, Avisos, Tarefas, Rotinas, Projetos, Reuniões, Agenda, Como fazer e o Tino." width="100%">
 </p>
 
-Os módulos são ligados entre si. Um aviso pode pedir uma tarefa, uma reunião gera combinados, uma rotina não cumprida aparece para quem acompanha.
+O Erbe é uma base, que toda rede tem, e módulos, que cada rede contrata. Na base ficam o login, as lojas, as pessoas, as permissões e as notificações, e também as duas entradas: **Hoje** mostra o que cada pessoa tem para fazer no turno, e **Acompanhar** é a visão de quem cuida de uma equipe ou de várias lojas.
+
+Os módulos são ligados entre si. Um aviso pode pedir uma tarefa, uma reunião gera combinados, uma rotina não cumprida aparece para quem acompanha. As ligações valem entre os módulos que a rede tem.
 
 ## Este é o Tino
 
